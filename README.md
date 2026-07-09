@@ -1,5 +1,3 @@
-For a project specifically utilizing Logistic Regression for heart disease prediction, your README.md should highlight why this algorithm was chosen and provide details on feature scaling, as Logistic Regression is sensitive to feature magnitude.
-
 ## Heart Disease Prediction using Logistic Regression 🫀
 Project Overview
 This project implements a Logistic Regression model to predict the probability of a patient having heart disease. Logistic Regression was selected because it is a robust baseline for binary classification, providing clear probabilistic outputs and interpretable feature coefficients.
